@@ -1,4 +1,4 @@
-# flatfield-box
+# flatfield-box for astro photography
 -- deutsche Version siehe unten --
 --- english ---   
 A simple project to build a light-box to make flatfield frames for astro photography
