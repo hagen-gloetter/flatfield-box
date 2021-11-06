@@ -1,5 +1,5 @@
-# flatfield-box for astro photography
--- deutsche Version siehe unten --
+# Flatfield-Box for Astro Photography
+-- deutsche Version siehe unten --  
 --- english ---   
 ## Idea and purpose
 A simple project to build a light-box to make flatfield frames for astro photography
